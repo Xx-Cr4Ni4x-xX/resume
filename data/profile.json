@@ -1,0 +1,71 @@
+{
+    "name": "Patrick Bergundthal",
+    "profilePictureUrl": "images/pictures/avatar.jpg",
+    "locales": {
+        "de": {
+            "credits": "Let’s Moudify.",
+            "role": "Software- & Systementwickler"
+        },
+        "en": {
+            "credits": "Let’s Moudify.",
+            "role": "Software & Systems Engineer"
+        }
+    },
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "de": {
+                    "value": "3054 Schüpfen, Schweiz",
+                    "valueShort": "Schüpfen, CH"
+                },
+                "en": {
+                    "value": "3054 Schüpfen, Switzerland",
+                    "valueShort": "Schüpfen, CH"
+                }
+            }
+        },
+        {
+            "id": "email",
+            "value": "patrickbergundthal@bluewin.ch",
+            "valueShort": "patrickbergundthal@bluewin.ch",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:patrickbergundthal@bluewin.ch",
+            "copy": true
+        },
+        {
+            "id": "github",
+            "value": "PatrickBergundthal",
+            "valueShort": "github.com/Xx-Cr4Ni4x-xX",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/Xx-Cr4Ni4x-xX",
+            "copy": false
+        },
+        {
+            "id": "linkedin",
+            "value": "patrick-bergundthal",
+            "valueShort": "LinkedIn",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/in/patrick-bergundthal",
+            "copy": false
+        },
+        {
+            "id": "phone",
+            "value": "+41 78 771 63 45",
+            "valueShort": "+41 78 771 63 45",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:+41787716345",
+            "copy": true
+        },
+        {
+            "id": "download_resume",
+            "value": "Lebenslauf (PDF)",
+            "valueShort": "CV",
+            "faIcon": "fa-solid fa-file-pdf",
+            "href": "/pdf/resume.pdf",
+            "copy": false
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Welcome to *my resume!*",
+                    "title_short": "Welcome!",
+                    "description": null,
+                    "nav_label": "About"
+                },
+                "de": {
+                    "title": "Willkommen zu *meinem Lebenslauf!*",
+                    "title_short": "Willkommen!",
+                    "description": null,
+                    "nav_label": "Über mich"
+                }
+            }
+        },
+        {
+            "id": "career",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Background",
+                    "title_short": null,
+                    "description": "An overview of my professional journey and technical development.",
+                    "nav_label": "Career"
+                },
+                "de": {
+                    "title": "*Beruflicher* Werdegang",
+                    "title_short": null,
+                    "description": "Ein Überblick über meinen beruflichen Weg und meine technische Entwicklung.",
+                    "nav_label": "Werdegang"
+                }
+            }
+        },
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Technologies, tools and domains I work with:",
+                    "nav_label": "Skills"
+                },
+                "de": {
+                    "title": "*Fähigkeiten*",
+                    "title_short": null,
+                    "description": "Technologien, Tools und Bereiche, mit denen ich arbeite:",
+                    "nav_label": "Skills"
+                }
+            }
+        },
+
+        {
+            "id": "portfolio",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/portfolio.json",
+            "faIcon": "fa-solid fa-folder-open",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "My *Projects*",
+                    "title_short": null,
+                    "description": "Selected technical and software projects.",
+                    "nav_label": "Projects"
+                },
+                "de": {
+                    "title": "Meine *Projekte*",
+                    "title_short": null,
+                    "description": "Ausgewählte technische und Software-Projekte.",
+                    "nav_label": "Projekte"
+                }
+            }
+        },
+
+        {
+            "id": "hobbies",
+            "categoryId": "more",
+            "jsonPath": "/sections/hobbies.json",
+            "faIcon": "fa-solid fa-heart",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Interests*",
+                    "title_short": null,
+                    "description": "What I do when I'm not building systems:",
+                    "nav_label": "Interests"
+                },
+                "de": {
+                    "title": "*Interessen*",
+                    "title_short": null,
+                    "description": "Was ich mache, wenn ich nicht an Systemen baue:",
+                    "nav_label": "Interessen"
+                }
+            }
+        },
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json",
+            "faIcon": "fa-solid fa-pen-to-square",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Contact*",
+                    "title_short": null,
+                    "description": "Get in touch with me.",
+                    "nav_label": "Contact"
+                },
+                "de": {
+                    "title": "*Kontakt*",
+                    "title_short": null,
+                    "description": "Nimm gerne Kontakt mit mir auf.",
+                    "nav_label": "Kontakt"
+                }
+            }
+        }
+    ]
+}

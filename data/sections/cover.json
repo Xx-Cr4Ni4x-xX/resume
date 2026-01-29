@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["instagram", "linkedin", "github", "download_resume"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "I am a self-taught web and systems developer who discovered programming through curiosity, hyperfocus, and the need for more creative and challenging work. With ADHD, I naturally dive deep into complex topics, always trying to understand how frontend, backend, and architecture work together, and how systems can be simplified, optimized, and made more intuitive for the user."
+                        },
+                        "de": {
+                            "description": "Ich bin autodidaktischer Web- und Systementwickler, der durch Neugier, Hyperfokus und den Wunsch nach mehr kreativer und anspruchsvoller Arbeit zum Programmieren gefunden hat. Durch ADHS tauche ich tief in komplexe Themen ein und versuche immer das Gesamtbild zu verstehen – wie Frontend, Backend und Architektur zusammenspielen und wie Systeme für Nutzer einfacher, klarer und effizienter gestaltet werden können."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "For the past two years I have been coding almost daily, building websites, automation workflows, and a local AI voice assistant. I enjoy exploring new technologies, understanding their real value, and integrating them where they make sense. I am now looking for the opportunity to fully commit to this career path in a team that values clean solutions, technical discussion, and sustainable systems."
+                        },
+                        "de": {
+                            "description": "Seit rund zwei Jahren programmiere ich fast täglich und baue Webseiten, Automationen und ein lokales KI-Sprachsystem. Neue Technologien interessieren mich sehr – nicht als Selbstzweck, sondern um ihren echten Nutzen zu verstehen und sinnvoll einzusetzen. Nun suche ich die Chance, diesen Berufsweg konsequent einzuschlagen und in einem Team zu arbeiten, das saubere Lösungen, technische Diskussionen und nachhaltige Systeme schätzt."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

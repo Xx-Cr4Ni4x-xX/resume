@@ -1,0 +1,48 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleContactForm",
+            "locales": {
+                "en": {
+                    "contact_thank_you": "*Thank you* for your message!",
+                    "contact_thank_you_description": "Your message has been received and I will get back to you as soon as possible.",
+                    "contact_thank_you_reply": "The reply will be sent to *{email}*."
+                },
+                "de": {
+                    "contact_thank_you": "*Danke* für deine Nachricht!",
+                    "contact_thank_you_description": "Deine Nachricht ist bei mir angekommen und ich melde mich so schnell wie möglich.",
+                    "contact_thank_you_reply": "Die Antwort wird an *{email}* gesendet."
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_js_public_key": "tzObcsmOwHvPy6Rhp",
+                "contact_js_service_id": "service_4h8g7vb",
+                "contact_js_template_id": "template_react"
+            },
+            "items": null
+        },
+        {
+            "id": 2,
+            "component": "ArticleContactOptions",
+            "locales": {
+                "en": {
+                    "title": "Or reach me via",
+                    "description": "You can also contact me through the following channels:"
+                },
+                "de": {
+                    "title": "Oder kontaktiere mich über",
+                    "description": "Du kannst mich auch über folgende Kanäle erreichen:"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_ids": ["address", "phone", "email", "linkedin", "github"]
+            },
+            "items": null
+        }
+    ]
+}

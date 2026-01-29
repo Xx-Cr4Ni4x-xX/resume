@@ -1,0 +1,182 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": null,
+                    "category_all": "All",
+                    "category_web": "Websites",
+                    "category_automation": "Automation",
+                    "category_ai": "AI & Voice",
+                    "category_smarthome": "Smart Home",
+                    "category_design": "Design",
+                    "category_discord": "Discord Bot"
+                },
+                "de": {
+                    "title": null,
+                    "category_all": "Alle",
+                    "category_web": "Webseiten",
+                    "category_automation": "Automatisierung",
+                    "category_ai": "KI & Sprache",
+                    "category_smarthome": "Smart Home",
+                    "category_design": "Design",
+                    "category_discord": "Discord Bot"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "category": "web",
+                    "img": "images/portfolio/internet.png",
+                    "locales": {
+                        "en": {
+                            "title": "Websites & Web Platforms",
+                            "description": "<b>twenty2-7seven Tattoo Studio</b><br>Website with integrated booking calendar, image gallery and strong branding.<br><br><b>JerseyHub</b><br>Platform for custom jersey designs and e-sports merchandise with modular backend and shop preparation.",
+                            "tags": ["website", "frontend", "backend", "responsive", "branding", "ecommerce"]
+                        },
+                        "de": {
+                            "title": "Webseiten & Web-Plattformen",
+                            "description": "<b>twenty2-7seven Tattoo Studio</b><br>Webseite mit Buchungskalender, Bildergalerie und starkem Branding.<br><br><b>JerseyHub</b><br>Plattform für individuelle Trikot-Designs und E-Sports-Artikel mit modularem Backend und Shop-Vorbereitung.",
+                            "tags": ["Webseite", "Frontend", "Backend", "Responsive", "Branding", "E-Commerce"]
+                        }
+                    },
+                    "links": [
+                        { "faIcon": "fa-brands fa-github", "href": "https://github.com/yourname/websites", "stringKey": "view_more_info" },
+                        { "faIcon": "fa-solid fa-globe", "href": "https://project-website.com", "stringKey": "visit_website" }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "category": "automation",
+                    "img": "images/portfolio/twitch.png",
+                    "locales": {
+                        "en": {
+                            "title": "Twitch Chat Moderator Bot",
+                            "description": "Real-time moderation bot with spam filtering, commands, roles, and API integration, using AI to classify violations by severity and automatically trigger actions such as warnings, timeouts, and bans.",
+                            "tags": ["twitch", "bot", "python", "automation"]
+                        },
+                        "de": {
+                            "title": "Twitch Moderations-Bot",
+                            "description": "Echtzeit-Moderationsbot mit Spamfilter, Commands, Rollen und API-Anbindung, der Verstösse KI-gestützt nach Schweregrad einstuft und automatisiert Massnahmen wie Verwarnungen, Timeouts und Banns auslösen kann.",
+                            "tags": ["Twitch", "Bot", "Python", "Automation"]
+                        }
+                    },
+                    "links": [
+                        { "faIcon": "fa-brands fa-github", "href": "https://github.com/Xx-Cr4Ni4x-xX/MajorMod", "stringKey": "view_more_info" }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "category": "automation",
+                    "img": "images/portfolio/protocoll.PNG",
+                    "locales": {
+                        "en": {
+                            "title": "Automatic Meeting Minutes App",
+                            "description": "Automated meeting minutes system with Speech-to-Text (Whisper), OpenAI API integration (Python), and export features (e.g., PDF/DOCX), including optional text-to-speech output.",
+                            "tags": ["stt", "automation", "productivity"]
+                        },
+                        "de": {
+                            "title": "Automatische Sitzungsprotokoll-App",
+                            "description": "System zur automatischen Protokollerstellung mit Speech-to-Text (Whisper), OpenAI-API-Anbindung (Python) und Exportfunktionen (z.B. PDF/DOCX), inkl. optionaler TTS-Ausgabe.",
+                            "tags": ["Transkription", "Automation", "Produktivität"]
+                        }
+                    },
+                    "links": [
+                        { "faIcon": "fa-brands fa-github", "href": "https://github.com/yourname/minutesapp", "stringKey": "view_more_info" },
+                        { "faIcon": "fa-solid fa-globe", "href": "https://project-website.com", "stringKey": "visit_website" }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "category": "ai",
+                    "img": "images/portfolio/jarvis.PNG",
+                    "locales": {
+                        "en": {
+                            "title": "Local AI Voice Assistant (Jarvis)",
+                            "description": "Fully local voice assistant with wake-word detection, Whisper speech-to-text, local LLM reasoning (LLaMA), custom TTS voice, n8n integration, and Home Assistant control, featuring a voice profile and speaking style tuned after Jarvis from Iron Man.",
+                            "tags": ["ai", "voice", "llm", "homeassistant"]
+                        },
+                        "de": {
+                            "title": "Lokaler KI-Sprachassistent (Jarvis)",
+                            "description": "Vollständig lokal betriebener Sprachassistent mit Wake-Word-Erkennung, Whisper-Speech-to-Text, lokalem LLM-Reasoning (LLaMA), individueller TTS-Stimme, n8n-Integration und Home-Assistant-Steuerung, mit auf „Jarvis“ (Iron Man) abgestimmtem Stimmprofil und Sprachstil.",
+                            "tags": ["KI", "Sprache", "LLM", "HomeAssistant"]
+                        }
+                    },
+                    "links": [
+                        { "faIcon": "fa-brands fa-github", "href": "https://github.com/yourname/jarvis", "stringKey": "view_more_info" },
+                        { "faIcon": "fa-solid fa-globe", "href": "https://project-website.com", "stringKey": "visit_website" }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "category": "smarthome",
+                    "img": "images/portfolio/ha.png",
+                    "locales": {
+                        "en": {
+                            "title": "Home Assistant Smart Home System",
+                            "description": "Full smart home infrastructure with Docker, automations, dashboards, sensors and voice control.",
+                            "tags": ["smarthome", "iot", "docker", "automation"]
+                        },
+                        "de": {
+                            "title": "Home-Assistant Smart-Home-System",
+                            "description": "Komplettes Smart-Home-System mit Docker, Automationen, Dashboards und Sprachsteuerung.",
+                            "tags": ["SmartHome", "IoT", "Docker", "Automation"]
+                        }
+                    },
+                    "links": [
+                        { "faIcon": "fa-brands fa-github", "href": "https://github.com/yourname/homeassistant", "stringKey": "view_more_info" },
+                        { "faIcon": "fa-solid fa-globe", "href": "https://project-website.com", "stringKey": "visit_website" }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "category": "design",
+                    "img": "images/portfolio/rl.png",
+                    "locales": {
+                        "en": {
+                            "title": "Rocket League Decal Designs",
+                            "description": "Custom esports car liveries with focus on color theory, contrast and branding visibility.",
+                            "tags": ["design", "esports", "branding"]
+                        },
+                        "de": {
+                            "title": "Rocket League Decal-Designs",
+                            "description": "Eigene E-Sports-Lackierungen mit Fokus auf Farblehre, Kontrast und Wiedererkennung.",
+                            "tags": ["Design", "E-Sports", "Branding"]
+                        }
+                    },
+                    "links": [
+                        { "faIcon": "fa-brands fa-github", "href": "https://github.com/yourname/decals", "stringKey": "view_more_info" },
+                        { "faIcon": "fa-solid fa-globe", "href": "https://project-website.com", "stringKey": "visit_website" }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "category": "discord",
+                    "img": "images/portfolio/reaper.png",
+                    "locales": {
+                        "en": {
+                            "title": "Reaper – Discord Automation Bot",
+                            "description": "Scalable Discord bot for moderation, role automation, workflows and API integrations.",
+                            "tags": ["discord", "bot", "automation", "moderation"]
+                        },
+                        "de": {
+                            "title": "Reaper – Discord Automations-Bot",
+                            "description": "Skalierbarer Discord-Bot für Moderation, Rollen, Automatisierungen und API-Anbindungen.",
+                            "tags": ["Discord", "Bot", "Automation", "Moderation"]
+                        }
+                    },
+                    "links": [
+                        { "faIcon": "fa-brands fa-github", "href": "https://github.com/Xx-Cr4Ni4x-xX/Reaper", "stringKey": "view_more_info" },
+                        { "faIcon": "fa-solid fa-globe", "href": "https://project-website.com", "stringKey": "visit_website" }
+                    ]
+                }
+            ]
+        }
+    ]
+}

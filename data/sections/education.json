@@ -1,0 +1,215 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 8,
+                    "dateStart": { "year": 2023, "month": 1 },
+                    "dateEnd": null,
+                    "fallbackFaIcon": "fa-solid fa-brain",
+                    "fallbackFaIconColor": "#1f2937",
+                    "locales": {
+                        "en": {
+                            "title": "Self-Taught Software & AI Developer",
+                            "description": "Intensive self-study and project work in web development, automation and AI systems. Building web applications, Docker-based infrastructures and a local AI voice assistant (STT, TTS, LLM, Home Assistant integration).",
+                            "province": "Bern",
+                            "country": "Switzerland",
+                            "institution": "Personal Projects",
+                            "tags": ["Python", "Web", "Docker", "AI", "Automation"]
+                        },
+                        "de": {
+                            "title": "Autodidaktischer Software- & KI-Entwickler",
+                            "description": "Intensives Selbststudium und Projektarbeit in Webentwicklung, Automatisierung und KI-Systemen. Aufbau von Webapplikationen, Docker-Infrastruktur und lokalem KI-Sprachassistenten (STT, TTS, LLM, Home Assistant).",
+                            "province": "Bern",
+                            "country": "Schweiz",
+                            "institution": "Eigene Projekte",
+                            "tags": ["Python", "Web", "Docker", "KI", "Automation"]
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": { "year": 2024, "month": 11 },
+                    "dateEnd": { "year": 2025, "month": 8 },
+                    "fallbackFaIcon": "fa-solid fa-microchip",
+                    "fallbackFaIconColor": "#1f2937",
+                    "locales": {
+                        "en": {
+                            "title": "Development & Repair Technician",
+                            "description": "R&D support, prototyping, testing and troubleshooting in electronics, pneumatics and hydraulics.",
+                            "province": "Bern",
+                            "country": "Switzerland",
+                            "institution": "Selectron Systems AG",
+                            "tags": ["Electronics", "Prototyping", "Testing"]
+                        },
+                        "de": {
+                            "title": "Entwicklung & Reparatur",
+                            "description": "Mitarbeit in Entwicklung und Labor, Prototypenbau, Tests und Fehlersuche in Elektronik, Pneumatik und Hydraulik.",
+                            "province": "Bern",
+                            "country": "Schweiz",
+                            "institution": "Selectron Systems AG",
+                            "tags": ["Elektronik", "Prototyping", "Testing"]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": { "year": 2021, "month": 9 },
+                    "dateEnd": { "year": 2023, "month": 3 },
+                    "fallbackFaIcon": "fa-solid fa-screwdriver-wrench",
+                    "fallbackFaIconColor": "#1f2937",
+                    "locales": {
+                        "en": {
+                            "title": "Workshop & Device Development",
+                            "description": "Design, assembly and maintenance of custom machines and devices.",
+                            "province": "Solothurn",
+                            "country": "Switzerland",
+                            "institution": "Kambo AG",
+                            "tags": ["Mechanical", "Prototyping"]
+                        },
+                        "de": {
+                            "title": "Werkstatt & Geräteentwicklung",
+                            "description": "Entwicklung, Montage und Instandhaltung von kundenspezifischen Geräten und Maschinen.",
+                            "province": "Solothurn",
+                            "country": "Schweiz",
+                            "institution": "Kambo AG",
+                            "tags": ["Maschinenbau", "Prototyping"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": { "year": 2020, "month": 2 },
+                    "dateEnd": { "year": 2020, "month": 6 },
+                    "fallbackFaIcon": "fa-solid fa-toolbox",
+                    "fallbackFaIconColor": "#1f2937",
+                    "locales": {
+                        "en": {
+                            "title": "Workshop Technician",
+                            "description": "Repair and maintenance of garden and small machinery.",
+                            "province": "Bern",
+                            "country": "Switzerland",
+                            "institution": "Landi Schweiz AG",
+                            "tags": ["Repair", "Mechanics"]
+                        },
+                        "de": {
+                            "title": "Werkstattmitarbeiter",
+                            "description": "Reparatur und Wartung von Garten- und Kleingeräten.",
+                            "province": "Bern",
+                            "country": "Schweiz",
+                            "institution": "Landi Schweiz AG",
+                            "tags": ["Reparatur", "Mechanik"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": { "year": 2019, "month": 6 },
+                    "dateEnd": { "year": 2020, "month": 2 },
+                    "fallbackFaIcon": "fa-solid fa-industry",
+                    "fallbackFaIconColor": "#1f2937",
+                    "locales": {
+                        "en": {
+                            "title": "Machine Assembly Technician",
+                            "description": "Assembly of complete machines including electrical, pneumatic and hydraulic systems.",
+                            "province": "Solothurn",
+                            "country": "Switzerland",
+                            "institution": "Soprem AG",
+                            "tags": ["Assembly", "Electronics", "Hydraulics"]
+                        },
+                        "de": {
+                            "title": "Maschinenmonteur",
+                            "description": "Montage kompletter Maschinen inklusive Elektrik, Pneumatik und Hydraulik.",
+                            "province": "Solothurn",
+                            "country": "Schweiz",
+                            "institution": "Soprem AG",
+                            "tags": ["Montage", "Elektrik", "Hydraulik"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": { "year": 2017, "month": 3 },
+                    "dateEnd": { "year": 2017, "month": 7 },
+                    "fallbackFaIcon": "fa-solid fa-people-group",
+                    "fallbackFaIconColor": "#1f2937",
+                    "locales": {
+                        "en": {
+                            "title": "Department Supervisor",
+                            "description": "Technical operations, customer coordination and maintenance of racing facilities.",
+                            "province": "Bern",
+                            "country": "Switzerland",
+                            "institution": "Race Inn",
+                            "tags": ["Leadership", "Operations"]
+                        },
+                        "de": {
+                            "title": "Abteilungsleiter Technik",
+                            "description": "Technischer Betrieb, Kundenbetreuung und Instandhaltung der Anlagen.",
+                            "province": "Bern",
+                            "country": "Schweiz",
+                            "institution": "Race Inn",
+                            "tags": ["Leitung", "Technik"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": { "year": 2017, "month": 7 },
+                    "dateEnd": { "year": 2019, "month": 2 },
+                    "fallbackFaIcon": "fa-solid fa-elevator",
+                    "fallbackFaIconColor": "#1f2937",
+                    "locales": {
+                        "en": {
+                            "title": "Elevator Technician",
+                            "description": "Installation and troubleshooting of electrical and mechanical elevator systems.",
+                            "province": "Bern",
+                            "country": "Switzerland",
+                            "institution": "AS Aufzüge",
+                            "tags": ["Electrics", "Mechanics"]
+                        },
+                        "de": {
+                            "title": "Liftmonteur",
+                            "description": "Montage und Fehlersuche an elektrischen und mechanischen Liftanlagen.",
+                            "province": "Bern",
+                            "country": "Schweiz",
+                            "institution": "AS Aufzüge",
+                            "tags": ["Elektrik", "Mechanik"]
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "dateStart": { "year": 2004, "month": 8 },
+                    "dateEnd": { "year": 2008, "month": 7 },
+                    "fallbackFaIcon": "fa-solid fa-cogs",
+                    "fallbackFaIconColor": "#1f2937",
+                    "locales": {
+                        "en": {
+                            "title": "Polymechanic EFZ (Apprenticeship)",
+                            "description": "Four-year vocational training in mechanical engineering and manufacturing.",
+                            "province": "Bern",
+                            "country": "Switzerland",
+                            "institution": "E. Baumgartner AG",
+                            "tags": ["Mechanics", "Manufacturing"]
+                        },
+                        "de": {
+                            "title": "Polymechaniker EFZ",
+                            "description": "Vierjährige Berufsausbildung in Mechanik und Fertigung.",
+                            "province": "Bern",
+                            "country": "Schweiz",
+                            "institution": "E. Baumgartner AG",
+                            "tags": ["Mechanik", "Fertigung"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

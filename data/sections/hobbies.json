@@ -1,0 +1,72 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": { "title": "Focus Distribution" },
+                "de": { "title": "Fokus-Verteilung" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": "pie"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": "#4F46E5",
+                    "percentage": 40,
+                    "locales": {
+                        "en": { "title": "Programming & Automation", "description": "Software, systems, AI, smart home, tooling." },
+                        "de": { "title": "Programmieren & Automatisierung", "description": "Software, Systeme, KI, Smart Home, Tools." }
+                    }
+                },
+                {
+                    "id": 2,
+                    "fallbackFaIcon": "fa-solid fa-microchip",
+                    "fallbackFaIconColor": "#10B981",
+                    "percentage": 5,
+                    "locales": {
+                        "en": { "title": "Electronics & Hardware", "description": "Raspberry Pi, microcontrollers, sensors, 3D printing." },
+                        "de": { "title": "Elektronik & Hardware", "description": "Raspberry Pi, Mikrocontroller, Sensoren, 3D-Druck." }
+                    }
+                },
+                {
+                    "id": 3,
+                    "fallbackFaIcon": "fa-solid fa-gamepad",
+                    "fallbackFaIconColor": "#F59E0B",
+                    "percentage": 15,
+                    "locales": {
+                        "en": { "title": "Gaming & Design", "description": "Rocket League, UI, decals, visuals." },
+                        "de": { "title": "Gaming & Design", "description": "Rocket League, UI, Decals, Visuals." }
+                    }
+                },
+                {
+                    "id": 4,
+                    "fallbackFaIcon": "fa-solid fa-motorcycle",
+                    "fallbackFaIconColor": "#EF4444",
+                    "percentage": 20,
+                    "locales": {
+                        "en": { "title": "Motorcycle & Motocross", "description": "Riding, mechanics, fitness and adrenaline." },
+                        "de": { "title": "Motorrad & Motocross", "description": "Fahren, Technik, Fitness und Adrenalin." }
+                    }
+                },
+                {
+                    "id": 5,
+                    "fallbackFaIcon": "fa-solid fa-people-group",
+                    "fallbackFaIconColor": "#6366F1",
+                    "percentage": 20,
+                    "locales": {
+                        "en": { "title": "Family", "description": "Time with family and close friends." },
+                        "de": { "title": "Familie", "description": "Zeit mit Familie und engen Freunden." }
+                    }
+                }
+            ]
+        }
+    ]
+}

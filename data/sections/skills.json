@@ -1,0 +1,376 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Core Skills"
+        },
+        "de": {
+          "title": "Kernkompetenzen"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": false,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "fallbackFaIcon": "fa-solid fa-brain",
+          "locales": {
+            "en": {
+              "title": "System Thinking",
+              "description": "Understanding complete systems from frontend to backend, infrastructure and user interaction.",
+              "level": null
+            },
+            "de": {
+              "title": "Systemdenken",
+              "description": "Ganzheitliches Verständnis von Frontend, Backend, Infrastruktur und Benutzerinteraktion.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 2,
+          "fallbackFaIcon": "fa-solid fa-robot",
+          "locales": {
+            "en": {
+              "title": "Automation & AI",
+              "description": "Building automated workflows, local AI assistants, STT, TTS and LLM integrations.",
+              "level": null
+            },
+            "de": {
+              "title": "Automatisierung & KI",
+              "description": "Aufbau von Automationen, lokalen KI-Assistenten sowie STT-, TTS- und LLM-Integrationen.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 3,
+          "fallbackFaIcon": "fa-solid fa-sitemap",
+          "locales": {
+            "en": {
+              "title": "Architecture",
+              "description": "Designing modular, maintainable and scalable software and infrastructure.",
+              "level": null
+            },
+            "de": {
+              "title": "Architektur",
+              "description": "Modulare, wartbare und skalierbare Software- und Infrastruktur-Architekturen.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 4,
+          "fallbackFaIcon": "fa-solid fa-bug",
+          "locales": {
+            "en": {
+              "title": "Debugging & Analysis",
+              "description": "Systematic problem analysis and troubleshooting across hardware and software.",
+              "level": null
+            },
+            "de": {
+              "title": "Fehlersuche & Analyse",
+              "description": "Systematische Analyse und Fehlersuche in Hardware- und Softwaresystemen.",
+              "level": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Frontend Stack"
+        },
+        "de": {
+          "title": "Frontend Stack"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "fallbackFaIcon": "fa-brands fa-html5",
+          "percentage": 90,
+          "locales": {
+            "en": {
+              "title": "HTML5",
+              "description": "Semantic, accessible markup."
+            },
+            "de": {
+              "title": "HTML5",
+              "description": "Semantisches, barrierearmes Markup."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "fallbackFaIcon": "fa-brands fa-css3-alt",
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "CSS3",
+              "description": "Responsive layouts, flexbox, grid."
+            },
+            "de": {
+              "title": "CSS3",
+              "description": "Responsive Layouts, Flexbox, Grid."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "fallbackFaIcon": "fa-brands fa-js",
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "JavaScript",
+              "description": "Modern ES, async logic, UI interaction."
+            },
+            "de": {
+              "title": "JavaScript",
+              "description": "Modernes ES, asynchrone Logik, UI-Interaktion."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "fallbackFaIcon": "fa-brands fa-vuejs",
+          "percentage": 80,
+          "locales": {
+            "en": {
+              "title": "Vue.js",
+              "description": "Component-based UI and state management."
+            },
+            "de": {
+              "title": "Vue.js",
+              "description": "Komponentenbasierte UI-Entwicklung."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Backend & APIs"
+        },
+        "de": {
+          "title": "Backend & APIs"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "fallbackFaIcon": "fa-brands fa-python",
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "Python",
+              "description": "Automation, APIs, AI pipelines."
+            },
+            "de": {
+              "title": "Python",
+              "description": "Automatisierung, APIs, KI-Pipelines."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "fallbackFaIcon": "fa-brands fa-php",
+          "percentage": 75,
+          "locales": {
+            "en": {
+              "title": "PHP",
+              "description": "Backend development and CMS extensions."
+            },
+            "de": {
+              "title": "PHP",
+              "description": "Backend-Entwicklung und CMS-Erweiterungen."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "fallbackFaIcon": "fa-solid fa-database",
+          "percentage": 70,
+          "locales": {
+            "en": {
+              "title": "SQL",
+              "description": "Relational database design and queries."
+            },
+            "de": {
+              "title": "SQL",
+              "description": "Relationale Datenbanken und Abfragen."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "DevOps & Systems"
+        },
+        "de": {
+          "title": "DevOps & Systeme"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "fallbackFaIcon": "fa-brands fa-linux",
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "Linux",
+              "description": "Server administration and automation."
+            },
+            "de": {
+              "title": "Linux",
+              "description": "Serveradministration und Automatisierung."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "fallbackFaIcon": "fa-brands fa-docker",
+          "percentage": 80,
+          "locales": {
+            "en": {
+              "title": "Docker",
+              "description": "Containerized services and orchestration."
+            },
+            "de": {
+              "title": "Docker",
+              "description": "Containerisierte Services und Orchestrierung."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "fallbackFaIcon": "fa-solid fa-house",
+          "percentage": 75,
+          "locales": {
+            "en": {
+              "title": "Home Assistant",
+              "description": "Smart home automation and integrations."
+            },
+            "de": {
+              "title": "Home Assistant",
+              "description": "Smart-Home-Automationen und Integrationen."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Languages"
+        },
+        "de": {
+          "title": "Sprachen"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 1,
+        "transparent_item_icon_background": true,
+        "small_icons": true,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "images/flags/de.png",
+          "locales": {
+            "en": {
+              "title": "German",
+              "description": "Native speaker",
+              "level": "Native"
+            },
+            "de": {
+              "title": "Deutsch",
+              "description": "Muttersprache",
+              "level": "Muttersprache"
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "images/flags/en-us.png",
+          "locales": {
+            "en": {
+              "title": "English",
+              "description": "Fluent, professional working proficiency",
+              "level": "Fluent"
+            },
+            "de": {
+              "title": "Englisch",
+              "description": "Sehr gute Kenntnisse, fliessend",
+              "level": "Sehr gut"
+            }
+          }
+        },
+        {
+            "id": 3,
+            "img": "images/flags/fr.png",
+            "locales": {
+                "en": {
+                    "title": "French",
+                    "description": "Simple conversation possible",
+                    "level": "Basic"
+                },
+                "de": {
+                    "title": "Französisch",
+                    "description": "Einfache Konversation möglich",
+                    "level": "Grundkenntnisse"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
