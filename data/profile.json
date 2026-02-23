@@ -38,9 +38,9 @@
         {
             "id": "github",
             "value": "PatrickBergundthal",
-            "valueShort": "github.com/Xx-Cr4Ni4x-xX",
+            "valueShort": "github.com/PatrickBergundthal",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com/Xx-Cr4Ni4x-xX",
+            "href": "https://github.com/PatrickBergundthal",
             "copy": false
         },
         {
@@ -64,8 +64,9 @@
             "value": "Lebenslauf (PDF)",
             "valueShort": "CV",
             "faIcon": "fa-solid fa-file-pdf",
-            "href": "/pdf/resume.pdf",
+            "href": "https://xx-cr4ni4x-xx.github.io/resume/pdf/patrick_bergundthal_cv.pdf",
             "copy": false
         }
     ]
 }
+

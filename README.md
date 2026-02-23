@@ -1,3 +1,0 @@
-https://xx-cr4ni4x-xx.github.io/resume/
-
-öffentliche url zum resume... 
